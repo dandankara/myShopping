@@ -1,1 +1,1 @@
-# Simple function to make a shop cart in e-commerce
+# Simple way to make a shop cart in e-commerce
